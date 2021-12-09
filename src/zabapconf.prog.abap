@@ -4,7 +4,8 @@ REPORT zabapconf.
 *
 * (c) MBT 2021 https://marcbernardtools.com/
 *
-* Lazy 2048 Game by Snazzy Sanoj (2017)
+* Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.
+* https://play2048.co/
 ************************************************************************
 
 SELECTION-SCREEN BEGIN OF SCREEN 1001.
