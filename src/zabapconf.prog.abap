@@ -2,9 +2,11 @@ REPORT zabapconf.
 ************************************************************************
 * ABAPConf 2021 - Demo
 *
-* (c) MBT 2021 https://marcbernardtools.com/
+* "ABAP Port" (c) Marc Bernard 2021 https://marcbernardtools.com/
 *
-* Created by Gabriele Cirulli. Based on 1024 by Veewo Studio.
+* REQUIRES SAP GUI 7.70 WITH CHROME BROWSER CONTROL
+*
+* 2048 game created by Gabriele Cirulli. Based on 1024 by Veewo Studio.
 * https://play2048.co/
 ************************************************************************
 
@@ -106,9 +108,6 @@ FORM output.
 ENDFORM.
 
 FORM start.
-*  SET PF-STATUS 'MAIN'.
-*  SET TITLEBAR 'MAIN'.
-
   IF html_control IS INITIAL.
 
     CREATE OBJECT html_control
