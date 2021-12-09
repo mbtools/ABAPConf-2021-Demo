@@ -2,8 +2,6 @@ REPORT zabapconf.
 ************************************************************************
 * ABAPConf 2021 - Demo
 *
-* Wow, this is the best conference ever!
-*
 * "ABAP Port" (c) Marc Bernard 2021 https://marcbernardtools.com/
 *
 * REQUIRES SAP GUI 7.70 WITH CHROME BROWSER CONTROL
