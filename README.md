@@ -10,3 +10,10 @@ Demo Repository for ABAPConf 2021: The 2048 Game running in SAP GUI
 
 ![image](https://user-images.githubusercontent.com/59966492/145339567-022383a1-a41a-4513-9055-d66e393a5513.png)
 
+## Recording of Session
+
+https://www.youtube.com/watch?v=Gbkfz8Kc5EY&list=PL7VGlQRMcLSBLLtopAYkFMZDMEc1TgTfh&index=10&t=40s
+
+## Presentation
+
+https://www.abapconf.org/card/speakers/marc/abapGit_for_Beginners_v3.pdf
