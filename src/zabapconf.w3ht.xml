@@ -6,20 +6,14 @@
    <TEXT>ABAPConf 2021 - Demo (HTML)</TEXT>
    <PARAMS>
     <WWWPARAMS>
-     <RELID>HT</RELID>
-     <OBJID>ZABAPCONF</OBJID>
      <NAME>fileextension</NAME>
      <VALUE>.html</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
-     <RELID>HT</RELID>
-     <OBJID>ZABAPCONF</OBJID>
      <NAME>filename</NAME>
      <VALUE>abapconf.html</VALUE>
     </WWWPARAMS>
     <WWWPARAMS>
-     <RELID>HT</RELID>
-     <OBJID>ZABAPCONF</OBJID>
      <NAME>mimetype</NAME>
      <VALUE>text/html</VALUE>
     </WWWPARAMS>
